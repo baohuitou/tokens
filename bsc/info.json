@@ -1,0 +1,11 @@
+﻿{ 
+"name": "Taoism Token",
+"website": "https://www.taoismtoken.com",
+"description": "TAOISM token is an innovative decentralized crypto token. Its goal is to build a moral financial solution, maintain the moral security of the crypto world, and promote the development of science and technology.",
+"explorer": "https://bscscan.com/token/0x6D6905D98088aDeca6D741B52Ce3730F591Be8cC",
+"type": "BEP20",
+"symbol": "TAOISM",
+"decimals": 18,
+"status": "active",
+"id": "0x6D6905D98088aDeca6D741B52Ce3730F591Be8cC"
+}
